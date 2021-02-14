@@ -48,3 +48,4 @@ else:
 # Salida del programa
 print()
 print("Programa terminado, ¡ADIOS!")
+print("-" * 136)
