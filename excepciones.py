@@ -31,7 +31,7 @@ while True:
         print("Los valores introducidos no son correctos. Intentalo de nuevo")
 
 print()
-operacion=input("Que deseas hacer? \n1- Sumar \n2- Restar \n3- Multiplicar \n4- Dividir \n:")
+operacion=input("Que deseas hacer? selecciones el número de la izquierda. \n1- Sumar \n2- Restar \n3- Multiplicar \n4- Dividir \n: ")
 
 # Estructura de control condicional
 if operacion == "1":
